@@ -10,7 +10,7 @@ If you use "Real-Time-P-QRS-and-T-Wave-Detection-by-QRS-Matched-Filter-Method" i
 
 ```
 @article{masud-2018,
-	author = {Masud, Abdullah Al},
+	author = {Abdullah Al Masud},
 	journal = {International Journal of Industrial Electronics and Electrical Engineering(IJIEEE)},
 	number = {7 (Part 2)},
 	pages = {39--43},
