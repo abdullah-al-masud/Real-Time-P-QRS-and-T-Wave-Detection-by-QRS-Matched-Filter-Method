@@ -15,7 +15,7 @@ If you use "Real-Time-P-QRS-and-T-Wave-Detection-by-QRS-Matched-Filter-Method" i
 	number = {7 (Part 2)},
 	pages = {39--43},
 	title = {{REAL TIME P, QRS AND T WAVE DETECTION BY QRS MATCHED FILTER METHOD}},
-	url = {http://www.ijieee.org.in/volume.php?volume_id=482},
+	url = {https://iraj.doionline.org/dx/IJIEEE-IRAJ-DOI-12859},
 	volume = {6},
 	year = {2018},
 }
